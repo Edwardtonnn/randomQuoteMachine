@@ -1,0 +1,15 @@
+body{ 
+  background: linear-gradient( rgba(31, 26, 26, 0.80), rgba(31, 26, 26, 0.80)), url('intersection.png');
+}
+.header{
+  background:#dc3545;
+  color:whitesmoke;
+   box-shadow: 10px 10px dimgray;
+}
+.container{
+  text-align:center;
+}
+.quoteArea{
+ background:gray;
+  box-shadow: 10px 10px dimgray;
+}
